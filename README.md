@@ -1,1 +1,1 @@
-# Car-Analysis
+# Car_Analysis is a project in which the dataset is used to clean, transform, and analyze data in Python. The tasks are: Data Cleaning (Handle Missing Data, Data Type Conversion, Filter Data, String Operations); Feature Engineering (Create New Columns); Exploratory Data Analysis (EDA)(Descriptive Statistics, Group Analysis, Visualizations) and Correlation Analysis
