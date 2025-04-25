@@ -1,4 +1,4 @@
-## The Goal
+## Goal
 To clean, transform, and analyze a dataset of car specifications and pricing to uncover market trends and relationships.
 
 ## Description of the Project
